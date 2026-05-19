@@ -6,13 +6,11 @@ Personal portfolio for **Ayush Kumar** — DevRel, AI agents, open source, and s
 
 ## Site demo
 
-Full walkthrough of the portfolio UI, sections, and interactions.
+Full walkthrough of the portfolio UI, sections, and interactions:
 
-> GitHub does not render `<video>` tags in README files. Use the preview below or the links to watch the demo.
+![Portfolio site demo](docs/site-demo.gif)
 
-[![Watch site demo — click to play](docs/site-demo-preview.png)](https://github.com/Ayush7614/ayushbuilds.dev/blob/master/docs/site-demo.mp4)
-
-**Watch:** [Open demo video on GitHub](https://github.com/Ayush7614/ayushbuilds.dev/blob/master/docs/site-demo.mp4) · [Download MP4](https://github.com/Ayush7614/ayushbuilds.dev/raw/master/docs/site-demo.mp4)
+[Watch full demo (MP4)](https://github.com/Ayush7614/ayushbuilds.dev/blob/master/docs/site-demo.mp4)
 
 ## Stack
 
