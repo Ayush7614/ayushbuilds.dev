@@ -17,15 +17,18 @@
     "react": "19.2.6",
     "react-dom": "19.2.6"
   },
+  "overrides": {
+    "eslint": "$eslint"
+  },
   "devDependencies": {
     "@playwright/test": "^1.60.0",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^25",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "eslint": "^10",
+    "eslint": "^9.39.0",
     "eslint-config-next": "16.2.6",
     "tailwindcss": "^4",
-    "typescript": "^6"
+    "typescript": "^5.9.0"
   }
 }
