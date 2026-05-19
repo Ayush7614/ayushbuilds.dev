@@ -43,7 +43,7 @@ export function Blog() {
           initial={{ opacity: 0.8 }}
         >
           <p className="font-mono text-xs text-[var(--ember)]">
-            // blog_url_pending
+            {"// blog_url_pending"}
           </p>
           <h3 className="mt-4 text-xl font-semibold text-[var(--mist)]">
             {hasBlogUrl ? "Read my blog" : "Blog link coming soon"}

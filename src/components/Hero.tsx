@@ -47,7 +47,7 @@ export function Hero() {
             animate={{ opacity: 1, x: 0 }}
             transition={{ delay: 0.2 }}
           >
-            // developer_relations · ai_security · open_source
+            {"// developer_relations · ai_security · open_source"}
           </motion.p>
 
           <h1 className="text-5xl font-bold leading-[1.05] tracking-tight sm:text-6xl lg:text-7xl">
