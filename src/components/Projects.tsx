@@ -83,7 +83,7 @@ export function Projects() {
       </div>
 
       <h3 className="mt-16 mb-6 font-mono text-sm text-[var(--ash)]">
-        // more_projects
+        {"// more_projects"}
       </h3>
       <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
         {otherProjects.map((p, i) => (
