@@ -2,15 +2,17 @@
 
 Personal portfolio for **Ayush Kumar** — DevRel, AI agents, open source, and security.
 
-**Live site:** [ayushbuilds.dev](https://ayushbuilds.dev)
+**Live site:** [ayushbuilds-dev.vercel.app](https://ayushbuilds-dev.vercel.app/)
 
 ## Site demo
 
-Full walkthrough of the portfolio UI, sections, and interactions:
+Full walkthrough of the portfolio UI, sections, and interactions.
 
-<video controls width="100%" src="docs/site-demo.mp4">
-  <a href="docs/site-demo.mp4">Download site demo video</a>
-</video>
+> GitHub does not render `<video>` tags in README files. Use the preview below or the links to watch the demo.
+
+[![Watch site demo — click to play](docs/site-demo-preview.png)](https://github.com/Ayush7614/ayushbuilds.dev/blob/master/docs/site-demo.mp4)
+
+**Watch:** [Open demo video on GitHub](https://github.com/Ayush7614/ayushbuilds.dev/blob/master/docs/site-demo.mp4) · [Download MP4](https://github.com/Ayush7614/ayushbuilds.dev/raw/master/docs/site-demo.mp4)
 
 ## Stack
 
@@ -36,7 +38,7 @@ Open [http://localhost:3000](http://localhost:3000).
 
 ## Deploy
 
-Deploy on [Vercel](https://vercel.com) and point `ayushbuilds.dev` to the project.
+Deployed on [Vercel](https://vercel.com). Custom domain `ayushbuilds.dev` can be added in project settings when ready.
 
 ```bash
 npm run build

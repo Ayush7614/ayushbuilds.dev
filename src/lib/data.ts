@@ -2,6 +2,7 @@ export const site = {
   name: "Ayush Kumar",
   handle: "ayushbuilds",
   domain: "ayushbuilds.dev",
+  liveUrl: "https://ayushbuilds-dev.vercel.app",
   tagline: "DevRel · AI Agents · Open Source · Security",
   email: "ayushknj3@gmail.com",
   resumeUrl:

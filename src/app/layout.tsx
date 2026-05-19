@@ -15,7 +15,7 @@ const jetbrains = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://ayushbuilds.dev"),
+  metadataBase: new URL("https://ayushbuilds-dev.vercel.app"),
   title: "Ayush Kumar | DevRel · AI Agents · Open Source",
   description:
     "Portfolio of Ayush Kumar — Lead DevRel Engineer, AI agent security builder (RuntimeWall), open-source advocate, GitHub Campus Expert, and GSoC contributor.",
@@ -28,12 +28,12 @@ export const metadata: Metadata = {
     "LLM security",
     "developer relations",
   ],
-  authors: [{ name: "Ayush Kumar", url: "https://ayushbuilds.dev" }],
+  authors: [{ name: "Ayush Kumar", url: "https://ayushbuilds-dev.vercel.app" }],
   openGraph: {
     title: "Ayush Kumar | ayushbuilds.dev",
     description:
       "DevRel · AI Security · RuntimeWall · Open Source — portfolio & blog.",
-    url: "https://ayushbuilds.dev",
+    url: "https://ayushbuilds-dev.vercel.app",
     siteName: "ayushbuilds.dev",
     images: [{ url: "/profile.png", width: 480, height: 480, alt: "Ayush Kumar" }],
     locale: "en_US",
