@@ -2,9 +2,9 @@ name: E2E
 
 on:
   push:
-    branches: [master, ayush1]
+    branches: [master, ayush1, ayush2]
   pull_request:
-    branches: [master, ayush1]
+    branches: [master, ayush1, ayush2]
 
 concurrency:
   group: e2e-${{ github.workflow }}-${{ github.ref }}

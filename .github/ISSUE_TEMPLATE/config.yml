@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Live site
+    url: https://ayushbuilds-dev.vercel.app/
+    about: View the deployed portfolio
+  - name: Book a session (Topmate)
+    url: https://topmate.io/ayush7
+    about: 1:1 guidance on DevRel, open source, or career questions
+  - name: Email
+    url: mailto:ayushknj3@gmail.com
+    about: Reach out directly for private or security-related topics

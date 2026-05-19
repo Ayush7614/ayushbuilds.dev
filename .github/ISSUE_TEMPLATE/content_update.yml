@@ -1,0 +1,45 @@
+name: Content update
+description: Request a change to portfolio content (experience, projects, links)
+title: "[Content]: "
+labels: ["content"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this for updates to experience, projects, awards, or social links on the live portfolio.
+        If you are the maintainer, editing `src/lib/data.ts` and opening a PR is usually best.
+
+  - type: dropdown
+    id: section
+    attributes:
+      label: Section to update
+      options:
+        - Experience / work history
+        - Projects
+        - Open source
+        - Blog
+        - About / bio
+        - Contact / social links
+        - Resume link
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: What should change?
+      description: Include exact text, URLs, dates, and any links to verify.
+      placeholder: |
+        Add NodeShift role end date: December 2025
+        Link: https://...
+    validations:
+      required: true
+
+  - type: textarea
+    id: source
+    attributes:
+      label: Source (optional)
+      description: LinkedIn, resume, company page, etc.
+    validations:
+      required: false
