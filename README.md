@@ -41,3 +41,7 @@ Deployed on [Vercel](https://vercel.com). Custom domain `ayushbuilds.dev` can be
 ```bash
 npm run build
 ```
+
+## Contributing
+
+Contributions, bug reports, and suggestions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for setup, PR guidelines, and how to run tests.

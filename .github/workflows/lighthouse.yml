@@ -2,9 +2,9 @@ name: Lighthouse
 
 on:
   push:
-    branches: [master, ayush1]
+    branches: [master, ayush1, ayush2]
   pull_request:
-    branches: [master, ayush1]
+    branches: [master, ayush1, ayush2]
 
 concurrency:
   group: lighthouse-${{ github.workflow }}-${{ github.ref }}
