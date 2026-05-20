@@ -7,7 +7,7 @@ export const site = {
   email: "ayushknj3@gmail.com",
   resumeUrl:
     "https://drive.google.com/file/d/120ZIa4rxIv49WbCqbJKO_g23KrFbcRJK/view",
-  blogUrl: "", // User will add later
+  blogUrl: "https://neural-verse-peach.vercel.app/",
   objective:
     "Developer Relations Engineer and Full-Stack Developer with deep expertise in open-source, cloud, LLMs, AI/ML, DevOps, and technical community building. I create large-scale developer education content and tools that empower engineers globally.",
   stats: [
@@ -213,10 +213,11 @@ export const featuredProjects = [
   {
     name: "NeuralVerse",
     tag: "Blog Platform",
-    href: "https://github.com/Ayush7614/NeuralVerse",
-    description: "My personal blog website — thoughts on AI, DevRel, open source, and engineering.",
+    href: "https://neural-verse-peach.vercel.app/",
+    description:
+      "My personal blog — 800+ posts on AI, LLMs, agentic AI, cybersecurity, engineering, and open source.",
     stack: ["Next.js", "MDX", "Blog"],
-    status: "wip",
+    status: "live",
   },
   {
     name: "ayushbuilds.dev",
